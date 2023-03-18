@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YapiciBloklaraGiris", "YapiciBloklaraGiris\YapiciBloklaraGiris.csproj", "{45BC4E79-9E5E-4F74-9F24-56C7F7DD2F7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YapiciBloklaraGiris", "YapiciBloklaraGiris\YapiciBloklaraGiris.csproj", "{45BC4E79-9E5E-4F74-9F24-56C7F7DD2F7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{A7E112BD-5EE2-44CF-858B-32176061A097}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{45BC4E79-9E5E-4F74-9F24-56C7F7DD2F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45BC4E79-9E5E-4F74-9F24-56C7F7DD2F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45BC4E79-9E5E-4F74-9F24-56C7F7DD2F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7E112BD-5EE2-44CF-858B-32176061A097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7E112BD-5EE2-44CF-858B-32176061A097}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7E112BD-5EE2-44CF-858B-32176061A097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7E112BD-5EE2-44CF-858B-32176061A097}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
