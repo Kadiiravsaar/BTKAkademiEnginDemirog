@@ -17,7 +17,7 @@ namespace YapiciBloklaraGiris
         public void Add()
         {
             _logger.Log();
-            Console.WriteLine($"{_logger.} to added");
+            Console.WriteLine($"{_logger} to added");
         }
     }
 }
